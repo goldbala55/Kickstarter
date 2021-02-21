@@ -42,3 +42,6 @@ We have focused on two analysis:
 - What are some other possible tables and/or graphs that we could create?
   
     I would recommend adding a table of core statistics and Box and Whisker to assess how clustered the data is.  I would also investigate duration of the campaigns – how long to be successful at the goal ranges analyzed?
+    
+    Visit https://github.com
+    
