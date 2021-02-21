@@ -1,6 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+
 Louise, an aspiring producer, has used Kickstarter to fund a previous production – Fever.  In anticipation of producing additional shows Louise has requested an analysis on how successful other campaigns were considering their launch dates and funding goals.
 
 ## Analysis and Challenges
