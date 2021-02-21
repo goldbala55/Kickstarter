@@ -10,7 +10,7 @@ We have focused on two analysis:
 ### Analysis of Outcomes Based on Launch Date
     For this analysis we considered the outcomes (successful, failed, canceled) for all ‘Theater’ projects totaled across months.  
     All years were considered, but a filter is provided to drill into individual years.  
-    The results are found here: ![alt text](https://github.com/goldbala55/Kickstarter/tree/main/resources/Theater_Outcomes_vs_Launch.png)
+    The results are found here: https://github.com/goldbala55/Kickstarter/tree/main/resources/Theater_Outcomes_vs_Launch.png
     
 
 ### Analysis of Outcomes Based on Goals
