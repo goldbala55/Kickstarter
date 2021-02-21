@@ -10,7 +10,8 @@ We have focused on two analysis:
 ### Analysis of Outcomes Based on Launch Date
     For this analysis we considered the outcomes (successful, failed, canceled) for all ‘Theater’ projects totaled across months.  
     All years were considered, but a filter is provided to drill into individual years.  
-    The results are found here https://github.com/goldbala55/Kickstarter/tree/main/resources/Theater_Outcomes_vs_Launch.png
+    The results are found here: [boo](https://github.com/goldbala55/Kickstarter/tree/main/resources/Theater_Outcomes_vs_Launch.png)
+    
 
 ### Analysis of Outcomes Based on Goals
     This analysis focused on outcomes (successful, failed, canceled) and fine tuned the filtering to just include ‘plays’.  
@@ -42,6 +43,5 @@ We have focused on two analysis:
 - What are some other possible tables and/or graphs that we could create?
   
     I would recommend adding a table of core statistics and Box and Whisker to assess how clustered the data is.  I would also investigate duration of the campaigns – how long to be successful at the goal ranges analyzed?
-    
-    Visit https://github.com
+
     
