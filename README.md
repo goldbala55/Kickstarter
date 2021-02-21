@@ -9,7 +9,9 @@ To provide the analysis Louise is seeking we utilized historical fundraising dat
 
 We have focused on two analysis:
 ### Analysis of Outcomes Based on Launch Date
-    For this analysis we considered the outcomes (successful, failed, canceled) for all ‘Theater’ projects totaled across months.  All years were considered, but a filter is provided to drill into individual years.  The results are found here: [insert link to Theater Outcomes]
+'''
+For this analysis we considered the outcomes (successful, failed, canceled) for all ‘Theater’ projects totaled across months.  All years were considered, but a filter is provided to drill into individual years.  The results are found here: [insert link to Theater Outcomes]
+'''
 ### Analysis of Outcomes Based on Goals
     This analysis focused on outcomes (successful, failed, canceled) and fine tuned the filtering to just include ‘plays’.  The data was categorized into fundraising goal ranges and totals and percentages by outcome were calculated for all plays.  The results are found here: [insert link to Outcomes by Goals]
 
