@@ -9,10 +9,10 @@ To provide the analysis Louise is seeking we utilized historical fundraising dat
 We have focused on two analysis:
 ### Analysis of Outcomes Based on Launch Date
     For this analysis we considered the outcomes (successful, failed, canceled) for all ‘Theater’ projects totaled across months.  All years were considered, but a filter is provided to drill into individual years.  The results are found here: 
-  * [Theater Outcomes](https://github.com/goldbala55/Kickstarter/resources/Theater_Outcomes_vs_Launch.png)
+  * [Theater Outcomes](https://github.com/goldbala55/Kickstarter/tree/main/resources/Theater_Outcomes_vs_Launch.png) 
 ### Analysis of Outcomes Based on Goals
     This analysis focused on outcomes (successful, failed, canceled) and fine tuned the filtering to just include ‘plays’.  The data was categorized into fundraising goal ranges and totals and percentages by outcome were calculated for all plays.  The results are found here: 
-  * [Outcomes by Goals](https://github.com/goldbala55/Kickstarter/resources/Outcomes_vs_Goals.png)
+  * [Outcomes by Goals](https://github.com/goldbala55/Kickstarter/tree/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
     The complete data and the detailed analysis is located here: 
