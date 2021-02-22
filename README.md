@@ -16,7 +16,7 @@ We have focused on two analysis:
 
 ### Challenges and Difficulties Encountered
     The complete data and the detailed analysis is located here: 
-  * [kickstarter-challenge.xslx](https://github.com/goldbala55/Kickstarter/Kickstarter-Challenge.xslx)
+  * [kickstarter-challenge.xslx](https://github.com/goldbala55/Kickstarter/blob/main/Kickstarter-Challenge.xlsx)
     
     No major challenges or difficulties were encountered. 
 
